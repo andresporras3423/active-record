@@ -9,7 +9,7 @@ fourth Ruby on Rails Microverse Project By Salvador Olvera &amp; Oscar Russi
 
 - It has the next three model: User, Post and Comment
 - A comment has one user and one post
-- A user can has many comments and manny posts
+- A user can has many comments and many posts
 - a post has one user and can has many comments
 
 # How to run this project
